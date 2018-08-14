@@ -6,12 +6,12 @@ sola is a simple JSON to CSV script/program for Otogi written in Python.
 ## Getting Started
 
 You will need:
-* [Python 3.x](https://www.python.org/downloads/) 
+* [Python 3.6+](https://www.python.org/downloads/) 
 * [sola.py](sola.py)
-* input JSON file
+* input JSON file (or use echo.json in example folder)
 * a working computer
 
-Move sola.py and the JSON file into the **same directory**. This could be your Desktop or any other easily accessible location. The output CSV file will be in the same directory as sola.py and the JSON file.
+Move sola.py and the JSON file into the **same directory**. This could be your Desktop or any other easily accessible location. **The output CSV file will be in the same directory as sola.py and the JSON file.**
 
 ## Running sola
 
