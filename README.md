@@ -3,7 +3,7 @@
 sola is a simple JSON to CSV program for Otogi written in Python. 
 <br/>It grabs daemon data from the input JSON file and writes it to a nicely formatted CSV file (with a header!) for easier data manipulation.
 
-There are two ways to run sola. sola.py runs on the command line while sola_v2.py is a GUI application (and much cleaner than sola.py).
+There are two ways to run sola. interactions with sola.py is solely on the command line while sola_v2.py is a GUI application (and much cleaner than sola.py).
 
 ## Getting Started
 
