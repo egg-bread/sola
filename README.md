@@ -39,3 +39,10 @@ sola has finished writing to 'daemon-info.csv'
 ```
 
 ## Running sola: using sola_v2.py
+
+The following example is in Terminal (macOS).
+Run sola_v2.py and the GUI application will display: 
+```
+$ python3 sola_v2.py
+```
+![sola's GUI](sola_gui.png)
